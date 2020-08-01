@@ -1,0 +1,81 @@
+           DUVIDAS
+
+1. Receber ficheiro com dados ou dados individualmente
+2.         //SGV loadSGVFromFiles();  ----- o que é isto
+
+
+         ler clientes, produtos e vendas  (4 argumentos)                omissao (1 argumento)
+
+
+                                          
+                                                         ler Dados Iniciais - clientes.txt etc   ---- SGV init();
+                            \                                    /
+                                      
+
+  
+                                           \        /
+                         
+               
+                                        
+                                        mostrar : nome do ficheiro, linhas lidas e validadas
+                                           -- uma nova leitura e equivalente a uma nova inicialização 
+
+
+
+                                                 |
+                                                 v
+
+                                               Mostrar opçoes
+
+
+                                                 |
+                                                 v
+
+                        getProductsStartedByLetter - input: 1 char
+
+                       outPut: produtos começados pela letra indicada, De N em N vezes. -> /b 
+                        DUVIDA: print da hash produtos?
+
+
+                       
+
+
+                                                 |
+                                                 v
+
+                        getProductsSalesAndProfit - input: string produto , 
+                                                           int month, opçao filial a filial ou global	
+
+                  
+                                                    output: nº de vendas, total faturado pelo produto, total das vendas N, total das vendas P,
+                                                                   (filial a filial ou global)
+
+                                                 |
+                                                 v
+
+
+
+                                                    
+
+                          
+
+
+
+//linha mais longa
+# de produtos envolvidos
+# de clientes envolvidos 
+# de vemdas validas 
+codigo do ultimo cliente
+# de vendas registadas para esre cliente
+# de vendas na filial 1,2 e 3
+# de clientes com codig começado por a , b ,z
+facturacao total registrada
+
+
+
+
+
+
+ 
+
+
